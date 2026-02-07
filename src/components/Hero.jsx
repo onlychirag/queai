@@ -21,7 +21,7 @@ const Hero = () => {
                 <div className="hero-actions animate-fade-in" style={{ animationDelay: '0.3s' }}>
                     {/* PASTE YOUR GITHUB RELEASE PRO LINK HERE LATER */}
                     <a
-                        href="https://github.com/YOUR_USERNAME/queai/releases/download/v1.0.0/QueAI-Setup.exe"
+                        href="https://github.com/onlychirag/queai/releases/download/v1.0.0/QueAI-Setup.exe"
                         className="btn btn-primary"
                         download
                     >
